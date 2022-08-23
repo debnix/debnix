@@ -16,6 +16,7 @@
   </a></code>
 </h5>
 
+---
 
 ```golang
 
@@ -32,6 +33,9 @@ export const Life = ()=>{
 }
 
 ```
+
+---
+
 ### 👨‍💻 About me:
 
 - 🔭 I’m currently working on Tirgy Company and MisionTic 2022 program as a professor
@@ -57,7 +61,7 @@ export const Life = ()=>{
 <img src = "https://img.shields.io/badge/-Flutter%20-blue?logo=flutter">
 <img src = "https://img.shields.io/badge/-AWS-orange?logo=amazon">
 
-
+---
 
 
 
