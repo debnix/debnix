@@ -20,21 +20,22 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on Tirgy Company and MisionTic 2022 program as a professor
 - 🌱 I’m currently learning Machine learning
-- 💬 Ask me about js, nodejs, html, css, react, vuejs, angular, python, java
+- 💬 Ask me about js, nodejs, html, css, react, vuejs, angular, python, java, software architecture
 - 📫 How to reach me: dario.p08@tirgycompany.com
 
 
-<!--
-**debnix/debnix** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```golang
 
-Here are some ideas to get you started:
+export const Life = ()=>{
+  const {hobbies_and_passion} = useHappiness()
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  const eat = () => '🍲';
+  const exercise = () => '💪';
+  const change_world = () => '<innovation>👨‍💻</innovation>';
+  const sleep = () => '🛌';
+  
+  return {eat, exercise, code, sleep, ...hobbies_and_passion}
+   
+}
+
+```
