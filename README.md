@@ -38,7 +38,7 @@ export const Life = ()=>{
 
 ### 👨‍💻 About me:
 
-- 🔭 I’m currently working on Tirgy Company and MisionTic 2022 program as a professor
+- 🔭 I’m currently working on <a href="https://www.tirgycompany.com"> Tirgy Company</a> as a CTO and <a href="https://www.misiontic2022.gov.co/portal/">MisionTic 2022</a> program as a Software Development Trainer
 - 🌱 I’m currently learning Machine learning
 - 📫 How to reach me: dario.p08@tirgycompany.com
 ### 💬 Ask me about
