@@ -32,7 +32,7 @@ export const Life = ()=>{
 }
 
 ```
-About me:
+### 👨‍💻 About me:
 
 - 🔭 I’m currently working on Tirgy Company and MisionTic 2022 program as a professor
 - 🌱 I’m currently learning Machine learning
