@@ -16,13 +16,6 @@
   </a></code>
 </h5>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Tirgy Company and MisionTic 2022 program as a professor
-- 🌱 I’m currently learning Machine learning
-- 💬 Ask me about js, nodejs, html, css, react, vuejs, angular, python, java, software architecture
-- 📫 How to reach me: dario.p08@tirgycompany.com
-
 
 ```golang
 
@@ -39,3 +32,11 @@ export const Life = ()=>{
 }
 
 ```
+About me:
+
+- 🔭 I’m currently working on Tirgy Company and MisionTic 2022 program as a professor
+- 🌱 I’m currently learning Machine learning
+- 💬 Ask me about js, nodejs, html, css, react, vuejs, angular, python, java, software architecture
+- 📫 How to reach me: dario.p08@tirgycompany.com
+
+
