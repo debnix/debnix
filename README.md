@@ -25,7 +25,7 @@ export const Life = ()=>{
 
   const eat = () => '🍲';
   const exercise = () => '💪';
-  const change_world = () => '<innovation>👨‍💻</innovation>';
+  const change_world = () => '<innovation>💡</innovation>';
   const sleep = () => '🛌';
   
   return {eat, exercise, change_world, sleep, ...hobbies_and_passion}
