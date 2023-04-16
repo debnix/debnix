@@ -1,19 +1,22 @@
 <h1 align="center">Hi there 👋 I'm Andres Quintero</h1>
 
 <h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/dariop08/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a></code>
-    <code>
-  <a href="https://torre.co/dariop08">
-  <img width="22" src="https://www.igneous.cl/assets/images/empresas/Torre-DarkIconLime.png"/>
-   Torre 
-  </a></code>   
-  <code><a href="https://www.instagram.com/andres_dpq" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a></code> 
-   <code>
+    <a href="https://www.linkedin.com/in/dariop08/" title="LinkedIn"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/linkedin.svg"> LinkedIn</a>
+  <br/>  
+  <br/>  
+  <a href="https://www.instagram.com/andres_dpq" title="Instagram Profile"><img width="22" src="https://github.com/zumrudu-anka/zumrudu-anka/blob/master/images/instagram.svg"> Instagram</a>
+  <br/>
+  <br/>  
   <a href="https://gitlab.com/debnix">
   <img width="22" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png"/>
    Gitlab
-  </a></code>
+  </a>
+  <br/>
+  <br/>  
+  <a href="https://torre.co/dariop08">
+  <img width="22" src="https://www.igneous.cl/assets/images/empresas/Torre-DarkIconLime.png"/>
+   Torre 
+  </a> 
 </h5>
 
 ---
@@ -38,7 +41,7 @@ export const Life = ()=>{
 
 ### 👨‍💻 About me:
 
-- 🔭 I’m currently working on <a href="https://www.tirgycompany.com"> Tirgy Company</a> as a CTO and <a href="https://www.misiontic2022.gov.co/portal/">MisionTic 2022</a> program as a Software Development Trainer
+- 🔭 I’m currently working on <a href="https://www.tirgycompany.com"> Tirgy Company</a> and <a href="https://jolders.com/">Jolders</a>
 - 🌱 I’m currently learning Machine learning
 - 📫 How to reach me: dario.p08@tirgycompany.com
 ### 💬 Ask me about
