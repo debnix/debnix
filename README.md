@@ -8,7 +8,7 @@
   <br/>
   <br/>  
   <a href="https://gitlab.com/debnix">
-  <img width="22" src="https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png"/>
+  <img width="22" src="[https://seeklogo.com/images/G/gitlab-logo-757620E430-seeklogo.com.png](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRCvqbvToPxG7_Ut50AtpLbyuYFYcUCT0yZBQ&s)"/>
    Gitlab
   </a>
   <br/>
