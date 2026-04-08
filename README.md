@@ -12,11 +12,7 @@
    Gitlab
   </a>
   <br/>
-  <br/>  
-  <a href="https://torre.co/dariop08">
-  <img width="22" src="https://www.igneous.cl/assets/images/empresas/Torre-DarkIconLime.png"/>
-   Torre 
-  </a> 
+  <br/>
 </h5>
 
 ---
